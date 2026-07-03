@@ -1,6 +1,4 @@
 import requests
-import pandas as pd
-from datetime import datetime
 
 def extrair_dados():
     url = "https://awesomeapi.com.br"
