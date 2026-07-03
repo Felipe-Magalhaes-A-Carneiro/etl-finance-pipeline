@@ -8,5 +8,4 @@ Este projeto simula um pipeline de dados corporativo que automatiza a coleta de 
 Python 3, Pandas, SQLAlchemy, SQLite/PostgreSQL, Git
 
 ## Como Executar:
-
 pip install -r requirements.txt e python main.py
